@@ -52,23 +52,24 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kunjhirapra&theme=dark&hide_border=false&show_icons=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kunjhirapra&theme=default&hide_border=false&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kunjhirapra&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  </picture>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kunjhirapra&theme=dark&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kunjhirapra&theme=default&hide_border=false" />
-    <img src="https://streak-stats.demolab.com?user=kunjhirapra&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </picture>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjhirapra&theme=dark&hide_border=false&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjhirapra&theme=default&hide_border=false&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjhirapra&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/kunjhirapra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjhirapra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/kunjhirapra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kunjhirapra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kunjhirapra">
+    <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=kunjhirapra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kunjhirapra">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunjhirapra&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
 </div>
 
 ## 💬 Random Dev Quote
