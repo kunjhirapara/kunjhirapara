@@ -11,6 +11,12 @@
 - 📧 Reach me through GitHub
 - 🌱 Member since June 2024
 
+## 📁 Repository Stats:
+
+![Total Repositories](https://img.shields.io/badge/Total%20Repos-5-blue?style=for-the-badge)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-5-green?style=for-the-badge)
+![Private Repositories](https://img.shields.io/badge/Private%20Repos-0-red?style=for-the-badge)
+
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,11 +42,11 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjhirapra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunjhirapra&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunjhirapra&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kunjhirapra&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjhirapra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjhirapra&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 💬 Random Dev Quote
