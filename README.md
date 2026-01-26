@@ -15,9 +15,9 @@
 
 | Category | Count |
 |----------|-------|
-| 📂 **Public Repositories** | 6 |
+| 📂 **Public Repositories** | 9 |
 | 🔒 **Private Repositories** | 9 *Not publicly visible* |
-| 📊 **Total Repositories** | 15 |
+| 📊 **Total Repositories** | 18 |
 
 > *Note: Private repository count is not publicly accessible via GitHub API. The total shown reflects public repositories only.*
 
