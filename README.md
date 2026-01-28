@@ -50,23 +50,23 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/kunjhirapra">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjhirapra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/kunjhirapara">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjhirapara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <a href="https://github.com/kunjhirapra">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kunjhirapra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kunjhirapra">
-    <img src="https://streak-stats.demolab.com?user=kunjhirapra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/kunjhirapara">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kunjhirapara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/kunjhirapra">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunjhirapra&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <a href="https://github.com/kunjhirapara">
+    <img src="https://streak-stats.demolab.com?user=kunjhirapara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kunjhirapara">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunjhirapara&theme=tokyonight" alt="GitHub Profile Summary"/>
   </a>
 </div>
 
@@ -79,6 +79,6 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=kunjhirapra&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kunjhirapara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
