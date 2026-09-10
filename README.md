@@ -41,13 +41,47 @@ I care about how something feels to use, not just whether it works.
 
 ## What I work with
 
-| | |
-| --- | --- |
-| **Frontend** | <img height="30" alt="React" src="https://cdn.simpleicons.org/react/FF8C42"> <img height="30" alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs/FF8C42"> <img height="30" alt="TypeScript" src="https://cdn.simpleicons.org/typescript/FF8C42"> <img height="30" alt="JavaScript" src="https://cdn.simpleicons.org/javascript/FF8C42"> <img height="30" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/FF8C42"> <img height="30" alt="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/FF8C42"> <img height="30" alt="jQuery" src="https://cdn.simpleicons.org/jquery/FF8C42"> |
-| **State & data** | <img height="30" alt="TanStack Query" src="https://cdn.simpleicons.org/reactquery/FF8C42"> <img height="30" alt="Redux" src="https://cdn.simpleicons.org/redux/FF8C42"> <img height="30" alt="Zod" src="https://cdn.simpleicons.org/zod/FF8C42"> &nbsp;Zustand |
-| **Backend** | <img height="30" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/FF8C42"> <img height="30" alt="Express" src="https://cdn.simpleicons.org/express/FF8C42"> <img height="30" alt="PHP" src="https://cdn.simpleicons.org/php/FF8C42"> <img height="30" alt="Redis" src="https://cdn.simpleicons.org/redis/FF8C42"> <img height="30" alt="Clerk" src="https://cdn.simpleicons.org/clerk/FF8C42"> |
-| **Databases** | <img height="30" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/FF8C42"> <img height="30" alt="MySQL" src="https://cdn.simpleicons.org/mysql/FF8C42"> <img height="30" alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/FF8C42"> <img height="30" alt="Prisma" src="https://cdn.simpleicons.org/prisma/FF8C42"> <img height="30" alt="TypeORM" src="https://cdn.simpleicons.org/typeorm/FF8C42"> |
-| **Ship & run** | <img height="30" alt="Docker" src="https://cdn.simpleicons.org/docker/FF8C42"> <img height="30" alt="Nginx" src="https://cdn.simpleicons.org/nginx/FF8C42"> <img height="30" alt="Linux" src="https://cdn.simpleicons.org/linux/FF8C42"> <img height="30" alt="Vercel" src="https://cdn.simpleicons.org/vercel/FF8C42"> <img height="30" alt="Git" src="https://cdn.simpleicons.org/git/FF8C42"> <img height="30" alt="npm" src="https://cdn.simpleicons.org/npm/FF8C42"> <img height="30" alt="Bun" src="https://cdn.simpleicons.org/bun/FF8C42"> &nbsp;Oracle Cloud |
+**Frontend** — React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, jQuery
+
+<img height="34" alt="React" src="https://cdn.simpleicons.org/react/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="TypeScript" src="https://cdn.simpleicons.org/typescript/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="JavaScript" src="https://cdn.simpleicons.org/javascript/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="jQuery" src="https://cdn.simpleicons.org/jquery/FF8C42">
+
+**State &amp; data** — TanStack Query, Redux, Zod, Zustand
+
+<img height="34" alt="TanStack Query" src="https://cdn.simpleicons.org/reactquery/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Redux" src="https://cdn.simpleicons.org/redux/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Zod" src="https://cdn.simpleicons.org/zod/FF8C42">
+
+**Backend** — Node.js, Express, core PHP, Redis, Clerk
+
+<img height="34" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Express" src="https://cdn.simpleicons.org/express/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="PHP" src="https://cdn.simpleicons.org/php/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Redis" src="https://cdn.simpleicons.org/redis/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Clerk" src="https://cdn.simpleicons.org/clerk/FF8C42">
+
+**Databases** — PostgreSQL, MySQL, MongoDB, Prisma, TypeORM
+
+<img height="34" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="MySQL" src="https://cdn.simpleicons.org/mysql/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Prisma" src="https://cdn.simpleicons.org/prisma/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="TypeORM" src="https://cdn.simpleicons.org/typeorm/FF8C42">
+
+**Ship &amp; run** — Docker, Nginx, Linux, Oracle Cloud VPS, Vercel, Git, npm, Bun
+
+<img height="34" alt="Docker" src="https://cdn.simpleicons.org/docker/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Nginx" src="https://cdn.simpleicons.org/nginx/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Linux" src="https://cdn.simpleicons.org/linux/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Vercel" src="https://cdn.simpleicons.org/vercel/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Git" src="https://cdn.simpleicons.org/git/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="npm" src="https://cdn.simpleicons.org/npm/FF8C42">&nbsp;&nbsp;
+<img height="34" alt="Bun" src="https://cdn.simpleicons.org/bun/FF8C42">
 
 ## Things I've built
 
