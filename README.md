@@ -134,9 +134,3 @@ Happy at either end of the stack.
 - **LinkedIn** — [in/kunj-hirapara](https://www.linkedin.com/in/kunj-hirapara/)
 - **WhatsApp** — [+91 96647 63618](https://wa.me/919664763618)
 - Or just use [the form on my site](https://kunjdeveloper.com/#contact)
-
-<div align="center">
-
-<sub><em>create something on your own</em></sub>
-
-</div>
