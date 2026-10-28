@@ -1,20 +1,28 @@
 <div align="center">
 
+<a href="https://kunjdeveloper.com"><img src="./assets/banner.png" width="100%" alt="Kunj Hirapara, full-stack engineer in Ahmedabad: I build websites and web apps. kunjdeveloper.com"></a>
+
 <h1>Kunj Hirapara</h1>
 
-<p><strong>Full-Stack Engineer</strong> · Ahmedabad, India</p>
+<p><strong>Full-stack developer in Ahmedabad, India</strong> · Next.js, React, Node.js and PostgreSQL</p>
 
-<p>I build web apps end to end, then host and look after them myself.</p>
+<p>I build websites and web apps end to end: the screens, the backend, the database and the launch.</p>
 
 <p>
   <a href="https://kunjdeveloper.com"><img alt="Portfolio: kunjdeveloper.com" src="https://img.shields.io/badge/Portfolio-kunjdeveloper.com-FF8C42?style=for-the-badge&logo=nextdotjs&logoColor=FF8C42&labelColor=0B0B0F"></a>
-  <a href="https://kunjdeveloper.com/resume"><img alt="Read Kunj Hirapara's resume online" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Read%20online-FF8C42?style=for-the-badge&logo=readdotcv&logoColor=FF8C42&labelColor=0B0B0F"></a>
+  <a href="https://kunjdeveloper.com/resume"><img alt="Read Kunj Hirapara's resume online" src="https://img.shields.io/badge/Resume-Read%20online-FF8C42?style=for-the-badge&logo=readdotcv&logoColor=FF8C42&labelColor=0B0B0F"></a>
   <!-- LinkedIn's mark was pulled from simple-icons at LinkedIn's request, so shields.io
        has no `logo=linkedin` any more. This is the devicon mark, recoloured to the amber
-       accent and inlined as a data URI. Don't swap it for `logo=linkedin` - that renders
+       accent and inlined as a data URI. Don't swap it for `logo=linkedin`: that renders
        a badge with an empty gap where the glyph should be. -->
   <a href="https://www.linkedin.com/in/kunj-hirapara/"><img alt="Kunj Hirapara on LinkedIn" src="https://img.shields.io/badge/LinkedIn-kunj--hirapara-FF8C42?style=for-the-badge&labelColor=0B0B0F&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRkY4QzQyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzeiIvPjxwYXRoIGZpbGw9IiMwQjBCMEYiIGQ9Ik0yMS4wNiA0OC43M2gxOC4xMVYxMDdIMjEuMDZ6bTkuMDYtMjlhMTAuNSAxMC41IDAgMTEtMTAuNSAxMC40OSAxMC41IDEwLjUgMCAwMTEwLjUtMTAuNDlNNTAuNTMgNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M3oiLz48L3N2Zz4%3D"></a>
   <a href="mailto:contact@kunjdeveloper.com"><img alt="Email contact@kunjdeveloper.com" src="https://img.shields.io/badge/Email-contact%40kunjdeveloper.com-FF8C42?style=for-the-badge&logo=maildotru&logoColor=FF8C42&labelColor=0B0B0F"></a>
+</p>
+
+<p>
+  <a href="https://dev.to/kunjhirapara"><img alt="Kunj Hirapara on DEV" src="https://img.shields.io/badge/DEV-kunjhirapara-FF8C42?style=flat-square&logo=devdotto&logoColor=FF8C42&labelColor=0B0B0F"></a>
+  <a href="https://kunjhirapara.hashnode.dev"><img alt="Kunj Hirapara on Hashnode" src="https://img.shields.io/badge/Hashnode-kunjhirapara-FF8C42?style=flat-square&logo=hashnode&logoColor=FF8C42&labelColor=0B0B0F"></a>
+  <a href="https://kunjdeveloper.com/blog/rss.xml"><img alt="RSS feed of Kunj Hirapara's blog" src="https://img.shields.io/badge/RSS-blog-FF8C42?style=flat-square&logo=rss&logoColor=FF8C42&labelColor=0B0B0F"></a>
 </p>
 
 </div>
@@ -23,25 +31,36 @@
 
 ## About me
 
-Hi, I'm Kunj. I've spent the last year or so building MERN, PERN, and core-PHP
-applications end to end — schema and API design at one end, the bits people
-actually click at the other.
+Hi, I'm Kunj, a full-stack developer based in Ahmedabad. I build MERN, PERN, Next.js
+and core-PHP applications from the first database table to the button people
+actually click, and then I put them live and keep them running.
 
-These days that mostly means Next.js and TypeScript. I put everything on my own
-Oracle Cloud VPS and keep it running myself, so I don't get to ship a project and
-forget about it. That's taught me more than any tutorial has.
+Most of my work these days is Next.js and TypeScript. Everything I ship runs on my
+own Oracle Cloud VPS, so I don't get to launch a project and forget about it. That
+has taught me more than any tutorial.
 
 I care about how something feels to use, not just whether it works.
 
-- 📍 Ahmedabad, Gujarat, India — IST (UTC+5:30), and happy working remote
+- 📍 Ahmedabad, Gujarat, India · IST (UTC+5:30) · happy to work remotely
+- 💼 Web Developer at NSEG Pvt. Ltd. since February 2025
 - 🌐 My work lives at **[kunjdeveloper.com](https://kunjdeveloper.com)**
-- 📄 [Résumé](https://kunjdeveloper.com/resume) · ✍️ [Blog](https://kunjdeveloper.com/blog)
-- 🖥️ My homepage is a terminal you can actually type into. Try `help`, or `ask` it
-  a question and an AI answers from my real project data.
+- 📄 [Resume](https://kunjdeveloper.com/resume) · ✍️ [Blog](https://kunjdeveloper.com/blog) · 🛠️ [Services](https://kunjdeveloper.com/services)
+- ⌨️ Press <kbd>Ctrl</kbd> <kbd>K</kbd> (<kbd>⌘</kbd> <kbd>K</kbd> on a Mac) on my site and ask it a question. An AI answers from my real project data.
+
+## What I've delivered
+
+At **NSEG Pvt. Ltd.**, Ahmedabad (Feb 2025 to present):
+
+| Result | How |
+| :-- | :-- |
+| **Cut API calls by ~98%** over a three-page visit, about 180 down to 4, and the saving grows with every extra page | Found 4 endpoints each called 15 to 16 times on every page load and moved their data into React Context, so each loads once per visit |
+| **The team publishes content without waiting for a developer** | Built an admin dashboard with lead management and a Jodit React blog editor |
+| **Production builds work reliably**, with no hydration errors | Loaded the editor only in the browser with a dynamic import (`ssr: false`) after it broke Next.js server rendering |
+| **3 subsidiary websites share one consistent look** across two tech stacks | Designed and built responsive landing pages in Next.js with Tailwind CSS and in PHP with Bootstrap |
 
 ## What I work with
 
-**Frontend** — React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, jQuery
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, jQuery
 
 <img height="34" alt="React" src="https://cdn.simpleicons.org/react/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs/FF8C42">&nbsp;&nbsp;
@@ -51,13 +70,13 @@ I care about how something feels to use, not just whether it works.
 <img height="34" alt="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="jQuery" src="https://cdn.simpleicons.org/jquery/FF8C42">
 
-**State &amp; data** — TanStack Query, Redux, Zod, Zustand
+**State and data:** TanStack Query, Redux, Zod, Zustand
 
 <img height="34" alt="TanStack Query" src="https://cdn.simpleicons.org/reactquery/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Redux" src="https://cdn.simpleicons.org/redux/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Zod" src="https://cdn.simpleicons.org/zod/FF8C42">
 
-**Backend** — Node.js, Express, core PHP, Redis, Clerk
+**Backend:** Node.js, Express, core PHP, Redis, Clerk
 
 <img height="34" alt="Node.js" src="https://cdn.simpleicons.org/nodedotjs/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Express" src="https://cdn.simpleicons.org/express/FF8C42">&nbsp;&nbsp;
@@ -65,7 +84,7 @@ I care about how something feels to use, not just whether it works.
 <img height="34" alt="Redis" src="https://cdn.simpleicons.org/redis/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Clerk" src="https://cdn.simpleicons.org/clerk/FF8C42">
 
-**Databases** — PostgreSQL, MySQL, MongoDB, Prisma, TypeORM
+**Databases:** PostgreSQL, MySQL, MongoDB, Prisma, TypeORM
 
 <img height="34" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="MySQL" src="https://cdn.simpleicons.org/mysql/FF8C42">&nbsp;&nbsp;
@@ -73,7 +92,7 @@ I care about how something feels to use, not just whether it works.
 <img height="34" alt="Prisma" src="https://cdn.simpleicons.org/prisma/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="TypeORM" src="https://cdn.simpleicons.org/typeorm/FF8C42">
 
-**Ship &amp; run** — Docker, Nginx, Linux, Oracle Cloud VPS, Vercel, Git, npm, Bun
+**Ship and run:** Docker, Nginx, Linux, Oracle Cloud VPS, Vercel, Git, npm, Bun
 
 <img height="34" alt="Docker" src="https://cdn.simpleicons.org/docker/FF8C42">&nbsp;&nbsp;
 <img height="34" alt="Nginx" src="https://cdn.simpleicons.org/nginx/FF8C42">&nbsp;&nbsp;
@@ -85,52 +104,54 @@ I care about how something feels to use, not just whether it works.
 
 ## Things I've built
 
-### [Commit — a real-time technical interview platform](https://kunjdeveloper.com/projects/commit)
+### [Commit: a real-time technical interview platform](https://kunjdeveloper.com/projects/commit)
 
 Video call on one side, a shared code editor on the other, and a Run button that
 drops the candidate's code into a throwaway Docker container with no network,
 128 MB of memory and a hard cap on processes. The sandbox was most of the work.
 
-Next.js 16 · TypeScript · React · Convex · Clerk · Stream Video SDK · Monaco Editor · Tailwind CSS · shadcn/ui · Docker
+`Next.js 16` `TypeScript` `React` `Convex` `Clerk` `Stream Video SDK` `Monaco Editor` `Tailwind CSS` `shadcn/ui` `Docker`
 
 [Case study](https://kunjdeveloper.com/projects/commit) · [Code](https://github.com/kunjhirapara/commit)
 
 ### [An e-commerce platform in plain PHP](https://kunjdeveloper.com/projects/ecommerce-practice)
 
-A full storefront and admin panel with no framework, deliberately — I wanted to
-find out what the frameworks had been doing for me. Passwords are hashed properly
-and quietly re-hashed on the next login when the algorithm moves on. Runs behind
-Nginx in Docker.
+A full storefront and admin panel with no framework, on purpose: I wanted to find
+out what the frameworks had been doing for me. Passwords are hashed properly and
+quietly re-hashed on the next login when the algorithm moves on. Runs behind Nginx
+in Docker.
 
-PHP 8.2 · MySQL 8 · JavaScript (ES6) · jQuery · Bootstrap 5 · Docker · Nginx
+`PHP 8.2` `MySQL 8` `JavaScript (ES6)` `jQuery` `Bootstrap 5` `Docker` `Nginx`
 
-[Case study](https://kunjdeveloper.com/projects/ecommerce-practice) · [Code](https://github.com/kunjhirapara/E-commerce-Project-FullStack)
+[Case study](https://kunjdeveloper.com/projects/ecommerce-practice) · [Live store](https://ecommerce.kunjdeveloper.com) · [Code](https://github.com/kunjhirapara/E-commerce-Project-FullStack)
 
 ### [kunjdeveloper.com](https://kunjdeveloper.com)
 
-This one's mine end to end. The hero is a terminal you can type into, and every
-project, post and résumé line is editable from an admin panel I host myself — so
-fixing a typo doesn't mean a redeploy.
+My portfolio, built and hosted end to end. Every project, post and resume line is
+editable from an admin panel I host myself, so fixing a typo doesn't mean a
+redeploy. It also has an AI you can ask about my work and a moderated guestbook.
 
-Next.js 15 · TypeScript · PostgreSQL · TypeORM · NextAuth · Tailwind CSS · Framer Motion · Docker · Oracle Cloud VPS
+`Next.js 16` `TypeScript` `PostgreSQL` `TypeORM` `NextAuth` `Tailwind CSS` `Framer Motion` `Gemini` `Docker` `Oracle Cloud VPS`
 
 [All projects →](https://kunjdeveloper.com/projects)
 
 ## Writing
 
-**[Blank on every iPhone](https://kunjdeveloper.com/blog/blank-on-every-iphone)** —
-a friend opened my site on an iPhone 13 Pro Max and got the header and nothing
-else. BrowserStack said the site was fine. Every real iPhone disagreed. Here's how
-I tracked it down.
+- **[Next.js 16, one year on: what broke when I upgraded a real site](https://kunjdeveloper.com/blog/nextjs-16-one-year-on)**
+  Turbopack builds broke admin sign-in, the Docker image lost its database driver,
+  and the dev server showed neither. What changed and what to check before you upgrade.
+- **[My portfolio was blank on every iPhone and BrowserStack said it was fine](https://kunjdeveloper.com/blog/blank-on-every-iphone)**
+  A friend opened my site on an iPhone 13 Pro Max and got the header and nothing
+  else. Here's how I tracked it down.
 
-[More posts →](https://kunjdeveloper.com/blog)
+[More posts →](https://kunjdeveloper.com/blog) · also on [DEV](https://dev.to/kunjhirapara) and [Hashnode](https://kunjhirapara.hashnode.dev)
 
 ## Get in touch
 
-I'm open to full-stack work, employed or freelance — MERN, PERN, Next.js or PHP.
-Happy at either end of the stack.
+I'm open to full-stack work, employed or freelance: MERN, PERN, Next.js or PHP,
+contract, retainer or full-time. Happy at either end of the stack.
 
-- **Email** — [contact@kunjdeveloper.com](mailto:contact@kunjdeveloper.com)
-- **LinkedIn** — [in/kunj-hirapara](https://www.linkedin.com/in/kunj-hirapara/)
-- **WhatsApp** — [+91 96647 63618](https://wa.me/919664763618)
-- Or just use [the form on my site](https://kunjdeveloper.com/#contact)
+- **Email:** [contact@kunjdeveloper.com](mailto:contact@kunjdeveloper.com)
+- **LinkedIn:** [in/kunj-hirapara](https://www.linkedin.com/in/kunj-hirapara/)
+- **WhatsApp:** [+91 96647 63618](https://wa.me/919664763618)
+- Or use [the contact form on my site](https://kunjdeveloper.com/#contact)
